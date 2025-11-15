@@ -19,7 +19,7 @@
     "DisableBuiltinPDFViewer": true,
     "DNSOverHTTPS": {
       "Enabled": true,
-      "ProviderURL": "",
+      "ProviderURL": "https://dns.quad9.net/dns-query",
       "Locked": false,
       "ExcludedDomains": [],
       "Fallback": false
